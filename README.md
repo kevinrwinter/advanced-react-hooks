@@ -3,7 +3,7 @@
 A collection of React hooks with examples showing the implementation of the following:
 
 - useRef
-- usememo
+- useMemo
 - useCallback
 
 ### Custom hooks
